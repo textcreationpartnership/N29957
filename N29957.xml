@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039823_0000_10148B7D42AF64A8"/>
-            <pb facs="tcp:039823_0001_10148B7509E80A90" rendition="simple:additions"/>
+            <pb facs="unknown:039823_0000_10148B7D42AF64A8"/>
+            <pb facs="unknown:039823_0001_10148B7509E80A90"
+                rendition="simple:additions"/>
             <p>A CONFERENCE Between a Pariſh-<hi>PRIEST,</hi> AND A QUAKER: Publiſhed for the preventing (if poſ<g ref="char:EOLhyphen"/>ſible) the vile Deceits of Prieſt-craft in <hi>America.</hi>
             </p>
             <p>
@@ -127,7 +128,7 @@
       </front>
       <body>
          <div type="letter">
-            <pb n="3" facs="tcp:039823_0002_10148B4AAD995ED0"/>
+            <pb n="3" facs="unknown:039823_0002_10148B4AAD995ED0"/>
             <opener>
                <salute>SIR,</salute>
             </opener>
@@ -161,7 +162,7 @@
                <p>I promiſe thee, thou art none of my Mi<g ref="char:EOLhyphen"/>niſter: I'll have none but of my own chuſing. Be<g ref="char:EOLhyphen"/>ſides, if thou mindeſt thy Pride more than my Salvation, and art too great to come, to thy Pa<g ref="char:EOLhyphen"/>riſhioners, ſmall is my Encouragement to come to thee: The Apoſtles ſtood not thus upon their Dignity.</p>
             </sp>
             <sp>
-               <pb n="4" facs="tcp:039823_0003_10148B4D225D8028"/>
+               <pb n="4" facs="unknown:039823_0003_10148B4D225D8028"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>The Apoſtles went to thoſe who could not come to them</hi>
@@ -262,7 +263,7 @@
                <p>And they renounce thee. And do not the Quakers act wiſely to renounce you ALL, as you ALL do one another?</p>
             </sp>
             <sp>
-               <pb n="5" facs="tcp:039823_0004_10148B4F95A4FC30"/>
+               <pb n="5" facs="unknown:039823_0004_10148B4F95A4FC30"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>You ſpeak harſhly, and untruly; There are Numbers of us who adhere together in our Senti<g ref="char:EOLhyphen"/>ments.</hi>
@@ -359,7 +360,7 @@
                </p>
             </sp>
             <sp>
-               <pb n="6" facs="tcp:039823_0005_10148B81EF562A00"/>
+               <pb n="6" facs="unknown:039823_0005_10148B81EF562A00"/>
                <speaker>Qua.</speaker>
                <p>I think mine are: I'll promiſe thee I try them by that Word, which I think I can interpret as well as thou can'ſt. I'll tell thee further, that I am ſatisfied the God of Mercy never damn'd any Man for miſtaking it; for I take it, in reveal<g ref="char:EOLhyphen"/>ing his Word he mocketh not Men, by giving them a Riddle inſtead of a Revelation.</p>
             </sp>
@@ -422,7 +423,7 @@
                <p>So do I, and bear my own Charges as he did his; and why ſhould I pay thee for doing what I can do as well my ſelf? I do not find that <hi>Paul</hi> has left thee any Wages, and I am ſure he has left thee nothing elſe; his Epiſtles are left to every Man.</p>
             </sp>
             <sp>
-               <pb n="7" facs="tcp:039823_0006_10148B51B288B8C8"/>
+               <pb n="7" facs="unknown:039823_0006_10148B51B288B8C8"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>Yes, he has left Miniſters to wait upon God's Ordinances in the Houſe of God. I am one of thoſe Miniſters.</hi>
@@ -453,7 +454,7 @@
                <p>No, I only would ſhew thee, that as thou doſt not reſemble him, thou art vain in pretending to ſucceed him; and ſo far I reaſon conſiſtently, as thou doſt weakly, if thou claimeſt all his Re<g ref="char:EOLhyphen"/>verence, without any of his Merit.</p>
             </sp>
             <sp>
-               <pb n="8" facs="tcp:039823_0007_10148B83B6F605C8"/>
+               <pb n="8" facs="unknown:039823_0007_10148B83B6F605C8"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>I do not ſet up for the Abilities of St.</hi> Paul; <hi>but ſtill have Qualifications ſuperior to Laymen.</hi>
@@ -512,7 +513,7 @@
                <p>Friend, beware of thy Words: What were the Apoſtles? They were no Univerſity Gentry.</p>
             </sp>
             <sp>
-               <pb n="9" facs="tcp:039823_0008_10148B5471E6CBA8"/>
+               <pb n="9" facs="unknown:039823_0008_10148B5471E6CBA8"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>But you ſay we want the Apoſtles Gifts.</hi>
@@ -592,7 +593,7 @@
                <p>I do not differ from Chriſtianity; nor am I ſaucy in differing from thoſe that do. The bleſ<g ref="char:EOLhyphen"/>ſed Jeſus hath left thee no Legacy, that I know of, nor ſo much as named thee in his Will.</p>
             </sp>
             <sp>
-               <pb n="10" facs="tcp:039823_0009_10148B8549CFB418"/>
+               <pb n="10" facs="unknown:039823_0009_10148B8549CFB418"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>The Man grows profane.</hi>
@@ -642,7 +643,7 @@
                <speaker>Qua.</speaker>
                <p>
                   <hi>The Carnal Man diſcerneth not the Things of God. Paul</hi> was call'd a Babbler by the <hi>Athe<g ref="char:EOLhyphen"/>nians,</hi> whoſe Prieſts, who were many, had no Il<g ref="char:EOLhyphen"/>lumination,
-<pb n="11" facs="tcp:039823_0010_10148B57D36EF9C0"/>
+<pb n="11" facs="unknown:039823_0010_10148B57D36EF9C0"/>
 but being Men of dark and voluptu<g ref="char:EOLhyphen"/>ous Minds, and feeding upon Sacrifices and Of<g ref="char:EOLhyphen"/>ferings, preferr'd <hi>Bacchus</hi> and his Grapes to the Spirit of Chriſt.</p>
             </sp>
             <sp>
@@ -684,7 +685,7 @@ but being Men of dark and voluptu<g ref="char:EOLhyphen"/>ous Minds, and feeding
             <sp>
                <speaker>Qua.</speaker>
                <p>Friend, in the firſt Place, <hi>judge not:</hi>
-                  <pb n="12" facs="tcp:039823_0011_10148B87F54E1E40"/>
+                  <pb n="12" facs="unknown:039823_0011_10148B87F54E1E40"/>
 and ſecondly, beware what thou ſayeſt againſt Forms, for thy own Sake.</p>
             </sp>
             <sp>
@@ -738,7 +739,7 @@ and ſecondly, beware what thou ſayeſt againſt Forms, for thy own Sake.</p>
                <p>Aſſuredly, no, thy Motives ours a not a-kin.</p>
             </sp>
             <sp>
-               <pb n="13" facs="tcp:039823_0012_10148B5957772038"/>
+               <pb n="13" facs="unknown:039823_0012_10148B5957772038"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>I warrant you preach by the Spirit.</hi>
@@ -809,7 +810,7 @@ and ſecondly, beware what thou ſayeſt againſt Forms, for thy own Sake.</p>
                <p>Doubtleſs there is: but I would be glad to hear thee explain the Difference.</p>
             </sp>
             <sp>
-               <pb n="14" facs="tcp:039823_0013_10148B8A6FA81A90"/>
+               <pb n="14" facs="unknown:039823_0013_10148B8A6FA81A90"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>The ſame Difference as there is between a good Underſtanding, and a wild hot Imagination.</hi>
@@ -868,7 +869,7 @@ and ſecondly, beware what thou ſayeſt againſt Forms, for thy own Sake.</p>
             <sp>
                <speaker>Qua.</speaker>
                <p>It is well for thee they do not. But to keep thee to the Point if I can, I tell thee, that we are no Enthuſiaſts, and I will give thee a Rea<g ref="char:EOLhyphen"/>ſon: We pretend to no more of the Spirit than
-<pb n="15" facs="tcp:039823_0014_10148B5C26B9BA10"/>
+<pb n="15" facs="unknown:039823_0014_10148B5C26B9BA10"/>
 influences our Actions, and our Actions are ſober and rational. Haſt thou found in me the Speech and wild Behaviour of an Enthuſiaſt.</p>
             </sp>
             <sp>
@@ -950,7 +951,7 @@ influences our Actions, and our Actions are ſober and rational. Haſt thou foun
             <sp>
                <speaker>Qua.</speaker>
                <p>Thou ſayeſt well. Now by what Work of ours do we appear to be Enthuſiaſts? We are ſober in Society, ſober in our Families: We fear God, and have an awful Reverence for his Word,
-<pb n="16" facs="tcp:039823_0015_10146B162B1459D0"/>
+<pb n="16" facs="unknown:039823_0015_10146B162B1459D0"/>
 which we read continually, inſomuch, that for this our Love to the Bible, ſome of thy Brethren laugh us to Scorn, and ſcoffingly ſay, that we are <hi>Bible-mad.</hi> We faſt and we pray in private, and preach and pray in our religious Aſſemblies, and we have univerſal Charity. We open our Purſes chearfully for the Support of the Publick; we are dutiful Subjects, and meddle not in Factions; we maintain all our own Poor, and contribute not the leſs to thine; and even the Clergy have Part of our Subſtance. Seeſt thou in this true Character, the Marks of Enthuſiaſm.</p>
             </sp>
             <sp>
@@ -1010,7 +1011,7 @@ which we read continually, inſomuch, that for this our Love to the Bible, ſome
                </p>
             </sp>
             <sp>
-               <pb n="17" facs="tcp:039823_0016_10148B5EAB1B7238"/>
+               <pb n="17" facs="unknown:039823_0016_10148B5EAB1B7238"/>
                <speaker>Qua.</speaker>
                <p>I rejoice in it? I like all Devotion that is paid to God, and warranted by his Word. I find not Fault with thine, only it is not meet for me, who find more Fervency in my own, and more Edification. And what is the End of Devo<g ref="char:EOLhyphen"/>tion but Edification?</p>
             </sp>
@@ -1071,7 +1072,7 @@ which we read continually, inſomuch, that for this our Love to the Bible, ſome
                </p>
             </sp>
             <sp>
-               <pb n="18" facs="tcp:039823_0017_10148B8DF90486F0"/>
+               <pb n="18" facs="unknown:039823_0017_10148B8DF90486F0"/>
                <speaker>Qua.</speaker>
                <p>I concur with thee, if that Reaſoning be free from Deceit, the next worſt Thing to Vio<g ref="char:EOLhyphen"/>lence, which ought never to be employed about the Mind, which it can never change.</p>
             </sp>
@@ -1132,7 +1133,7 @@ which we read continually, inſomuch, that for this our Love to the Bible, ſome
                </p>
             </sp>
             <sp>
-               <pb n="19" facs="tcp:039823_0018_10148B625999E8C8"/>
+               <pb n="19" facs="unknown:039823_0018_10148B625999E8C8"/>
                <speaker>Qua.</speaker>
                <p>What in their Bodies and Property?</p>
             </sp>
@@ -1236,7 +1237,7 @@ which we read continually, inſomuch, that for this our Love to the Bible, ſome
                <p>I have Charity for all Men, as every true Chriſtian hath even for thee. Art thou an En<g ref="char:EOLhyphen"/>thuſiaſt?</p>
             </sp>
             <sp>
-               <pb n="20" facs="tcp:039823_0019_10148B8FF160B770"/>
+               <pb n="20" facs="unknown:039823_0019_10148B8FF160B770"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>No; I am a Member of the Church of Chriſt.</hi>
@@ -1313,7 +1314,7 @@ which we read continually, inſomuch, that for this our Love to the Bible, ſome
             <sp>
                <speaker>Qua.</speaker>
                <p>I am going to ſhew thee that thine is: For
-<pb n="21" facs="tcp:039823_0020_10148B63DE95BA28"/>
+<pb n="21" facs="unknown:039823_0020_10148B63DE95BA28"/>
 Reaſoning hath no Manner of Effect upon thee; and thou reckon'ſt every Man who is out of thy Favour, to be moreover out of the Favour of God. All which is manifeſt Enthuſiaſm, and the worſt Parts of Enthuſiaſm, the Enthuſiaſm of Monks and Derviſes, and of Bigots and Perſecu<g ref="char:EOLhyphen"/>tors of all Sides and Sorts.</p>
             </sp>
             <sp>
@@ -1373,7 +1374,7 @@ Reaſoning hath no Manner of Effect upon thee; and thou reckon'ſt every Man who
                </p>
             </sp>
             <sp>
-               <pb n="22" facs="tcp:039823_0021_10148B91A70A2BD0"/>
+               <pb n="22" facs="unknown:039823_0021_10148B91A70A2BD0"/>
                <speaker>Qua.</speaker>
                <p>We our ſelves are Part of the Church of Chriſt, and give no Diſturbance to the reſt; and if thy Pride is diſturb'd at our Chriſtian Liberty, the Scripture condemneth thee. We cannot, as we are Chriſtians, ſacrifice our Conſcience to any Man's Ambition. Can a peaceable Compliance with private Conſcience, diſturb any Man who hath the Spirit of Chriſt? The Buſineſs of Reli<g ref="char:EOLhyphen"/>gion is to find a Way to Heaven: Art thou diſ<g ref="char:EOLhyphen"/>turb'd becauſe I chuſe that which appears the ſhorteſt, and which to me is the only comfortable Way?</p>
             </sp>
@@ -1414,7 +1415,7 @@ Reaſoning hath no Manner of Effect upon thee; and thou reckon'ſt every Man who
                </p>
             </sp>
             <sp>
-               <pb n="23" facs="tcp:039823_0022_10148B65B4059C98"/>
+               <pb n="23" facs="unknown:039823_0022_10148B65B4059C98"/>
                <speaker>Qua.</speaker>
                <p>Yes, if it liketh thy Direction. I have the ſame Right.</p>
             </sp>
@@ -1505,7 +1506,7 @@ Reaſoning hath no Manner of Effect upon thee; and thou reckon'ſt every Man who
                </p>
             </sp>
             <sp>
-               <pb n="24" facs="tcp:039823_0023_10148B9603C8B060"/>
+               <pb n="24" facs="unknown:039823_0023_10148B9603C8B060"/>
                <speaker>Qua.</speaker>
                <p>Thou meaneſt, I ſuppoſe, to bow at Sounds, to make Legs to a Table, and to ſay after thee. This is not religious Worſhip, but a Task which any Infidel can perform; nay, we have Creatures amongſt us that are not rational, and yet can per<g ref="char:EOLhyphen"/>form it.</p>
             </sp>
@@ -1596,7 +1597,7 @@ Reaſoning hath no Manner of Effect upon thee; and thou reckon'ſt every Man who
             <sp>
                <speaker>Qua.</speaker>
                <p>Then every Man ought to judge of every Church, as thou doſt, by ſeparating from every Church but thy own, doubtleſs, becauſe thou art
-<pb n="25" facs="tcp:039823_0024_10148B694E73AD30"/>
+<pb n="25" facs="unknown:039823_0024_10148B694E73AD30"/>
 moſt edified by her. And when ſhe edifieth me alſo, I will alſo join with her.</p>
             </sp>
             <sp>
@@ -1658,7 +1659,7 @@ moſt edified by her. And when ſhe edifieth me alſo, I will alſo join with he
             <sp>
                <speaker>Qua.</speaker>
                <p>Pernicious (if thou pleaſeſt) to the Pride of Men who would ride upon Society, over the Belly of Conſcience. But what hath human So<g ref="char:EOLhyphen"/>ciety to do with what is in the Heart of Man, concerning a future State, wherewith rhere can be no human Commerce? Human Society, indeed, ſhould beware of thoſe Men who, under Colour of conducting to the other World, would engroſs this; of Men who would make the whole Body
-<pb n="26" facs="tcp:039823_0025_10148B97895B1C70"/>
+<pb n="26" facs="unknown:039823_0025_10148B97895B1C70"/>
 Politick their Slaves and Tenants, and would take ſo much Care of Poſture and Opinions, as to leave them nothing but Poſtures and Opinions to take Care of.</p>
             </sp>
             <sp>
@@ -1718,7 +1719,7 @@ Politick their Slaves and Tenants, and would take ſo much Care of Poſture and 
                </p>
             </sp>
             <sp>
-               <pb n="27" facs="tcp:039823_0026_10148B6BC83E7940"/>
+               <pb n="27" facs="unknown:039823_0026_10148B6BC83E7940"/>
                <speaker>Qua.</speaker>
                <p>Yes, ſurely, if I robb'd the Publick to get it, or turn the Bounty of the Publick to the publick Detriment.</p>
             </sp>
@@ -1766,7 +1767,7 @@ Politick their Slaves and Tenants, and would take ſo much Care of Poſture and 
                <speaker>Cler.</speaker>
                <p>
                   <hi>Nor conſiſts of ſolemn Faces, prim Cravats
-<pb n="28" facs="tcp:039823_0027_10148B9B6A6EB390"/>
+<pb n="28" facs="unknown:039823_0027_10148B9B6A6EB390"/>
 plain Coats, and broad Hats.</hi>
                </p>
             </sp>
@@ -1867,7 +1868,7 @@ plain Coats, and broad Hats.</hi>
                <speaker>Cler.</speaker>
                <p>
                   <hi>But you are inconſiſtent with your ſelves.
-<pb n="29" facs="tcp:039823_0028_10148B6E51C9D158"/>
+<pb n="29" facs="unknown:039823_0028_10148B6E51C9D158"/>
 Your Stile to God and Man is the ſame; and you</hi> thee <hi>and</hi> thou <hi>them both alike.</hi>
                </p>
             </sp>
@@ -1908,7 +1909,7 @@ Your Stile to God and Man is the ſame; and you</hi> thee <hi>and</hi> thou <hi>
                <speaker>Cler.</speaker>
                <p>
                   <hi>You are an impudent Man: Is it from your inward Light that you reproach me, as if I
-<pb n="30" facs="tcp:039823_0029_10148B9DE6356710"/>
+<pb n="30" facs="unknown:039823_0029_10148B9DE6356710"/>
 were not a Chriſtian?</hi>
                </p>
             </sp>
@@ -1985,7 +1986,7 @@ were not a Chriſtian?</hi>
             <sp>
                <speaker>Qua.</speaker>
                <p>Yes, certainly: I think that all good Men, of all Profeſſions, will be ſaved. This is Charity;
-<pb n="31" facs="tcp:039823_0030_10148B6FEBD3BDE8"/>
+<pb n="31" facs="unknown:039823_0030_10148B6FEBD3BDE8"/>
 I ſeparate from no Church out of Pride or Intereſt, and am therefore no Schiſmatick.</p>
             </sp>
             <sp>
@@ -2069,7 +2070,7 @@ I ſeparate from no Church out of Pride or Intereſt, and am therefore no Schiſ
                <p>Be it ſo; tho' thou mighteſt have ſpared thy Reproach, by which thou wo't gain nothing. None of us have been accuſed of falſe Evidence; and doubtleſs thou haſt heard of many Church<g ref="char:EOLhyphen"/>men puniſh'd with publick Infamy for Perjury.</p>
             </sp>
             <sp>
-               <pb n="32" facs="tcp:039823_0031_10148B9F69D3E6A8"/>
+               <pb n="32" facs="unknown:039823_0031_10148B9F69D3E6A8"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>I ſuppoſe you do the Thing more ſlyly.</hi>
@@ -2130,7 +2131,7 @@ I ſeparate from no Church out of Pride or Intereſt, and am therefore no Schiſ
                <p>No; thou didſt only paint out Quakers to them, as a People not fit to live among Chri<g ref="char:EOLhyphen"/>ſtians.</p>
             </sp>
             <sp>
-               <pb n="33" facs="tcp:039823_0032_10146B12433CCBE0"/>
+               <pb n="33" facs="unknown:039823_0032_10146B12433CCBE0"/>
                <speaker>Cler.</speaker>
                <p>
                   <hi>I preach'd what I thought it my Duty to preach.</hi>
@@ -2169,7 +2170,7 @@ I ſeparate from no Church out of Pride or Intereſt, and am therefore no Schiſ
             <sp>
                <speaker>Qua.</speaker>
                <p>Friend, thy Abuſe ends in Praiſe. The Quakers uſe no Man as an Enemy for his Religi<g ref="char:EOLhyphen"/>on; and they who do have not Zeal, but Fury and Fanaticiſm. Our Saviour and his Apoſtles
-<pb n="34" facs="tcp:039823_0033_10148BA31107E8B8"/>
+<pb n="34" facs="unknown:039823_0033_10148BA31107E8B8"/>
 had no ſuch Zeal. Ill Uſage, Fierceneſs, and Barbarity, convince no Man; nor is any Man made a Chriſtian by Rage and Power.</p>
             </sp>
             <sp>
@@ -2233,7 +2234,7 @@ had no ſuch Zeal. Ill Uſage, Fierceneſs, and Barbarity, convince no Man; nor 
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:039823_0034_10148B7780A5C968"/>
+            <pb facs="unknown:039823_0034_10148B7780A5C968"/>
             <head>Books printed and ſold by <hi>S. Keimer,</hi> in <hi>Philadel<g ref="char:EOLhyphen"/>phia.</hi>
             </head>
             <p>THE Charter of Privileges grant<g ref="char:EOLhyphen"/>ed by the Honourable <hi>William Penn,</hi> 
@@ -2242,7 +2243,7 @@ had no ſuch Zeal. Ill Uſage, Fierceneſs, and Barbarity, convince no Man; nor 
                <abbr>Eſq</abbr>
             </p>
             <p n="3">
-               <pb facs="tcp:039823_0035_10148BA497578660"/>3. The <hi>Independent Whig,</hi> in Sheets, a Piece highly valuable for the detec<g ref="char:EOLhyphen"/>ting ſome of the many vile Deceits of Prieſtcraft. Price 4 <abbr>
+               <pb facs="unknown:039823_0035_10148BA497578660"/>3. The <hi>Independent Whig,</hi> in Sheets, a Piece highly valuable for the detec<g ref="char:EOLhyphen"/>ting ſome of the many vile Deceits of Prieſtcraft. Price 4 <abbr>
                   <hi>s.</hi>
                </abbr> 6 <abbr>
                   <hi>d.</hi>
@@ -2252,7 +2253,7 @@ had no ſuch Zeal. Ill Uſage, Fierceneſs, and Barbarity, convince no Man; nor 
             <p n="5">5. A Free Gift to the Clergy: Or the Hireling-Prieſts of what De<g ref="char:EOLhyphen"/>nomination ſoever, challeng'd to a Diſputation on this Queſtion, <hi>Whether the Hireling Preachers of this Age, who are all Miniſters of the Letter, be not Worſhippers of the Apocalyptical Beaſt, and Miniſters of Antichriſt?</hi> This is a choice Piece, rightly underſtood, ſince the Writing of which, the Author has been preſented with a Doctorſhip by the Univerſity of <hi>Cambridge.</hi>
             </p>
             <p n="6">6. A Dialogue betwixt a Burgo<g ref="char:EOLhyphen"/>maſter of <hi>Roterdam,</hi> and Monſieur <hi>Jurieu,</hi> a <hi>French Calviniſt</hi> Preacher, concerning a Queſtion of great Im<g ref="char:EOLhyphen"/>portance, <hi>viz.</hi> Whether the Civil Ma<g ref="char:EOLhyphen"/>giſtrate
-<pb facs="tcp:039823_0036_10148B7904C52930"/>
+<pb facs="unknown:039823_0036_10148B7904C52930"/>
 ought in Conſcience to take Cognizance of Eccleſiaſtical Diſputes, ſo as to prevent them, or any Ways puniſh the Authors of them.</p>
             <p n="7">7. The Doctrine of <hi>Baptiſms</hi> redu<g ref="char:EOLhyphen"/>ced from its ancient and modern Cor<g ref="char:EOLhyphen"/>ruptions; and reſtored to its Primitive Soundneſs and Integrity, according to the Word of Truth, the Subſtance of Faith, and the Nature of Chriſt's Kingdom, By <hi>William Dell,</hi> Miniſter of the Goſpel, and Maſter of <hi>Gonvil</hi> and <hi>Caius</hi> Colledge in <hi>Cambridge.</hi>
             </p>
@@ -2262,13 +2263,13 @@ ought in Conſcience to take Cognizance of Eccleſiaſtical Diſputes, ſo as to
             <p n="10">10. An <hi>Engliſh</hi> Dictionary, explain<g ref="char:EOLhyphen"/>ing the difficult Terms that are uſed in Divinity, Husbandry, Phyſick, Philoſophy, Law, Navigation, Ma<g ref="char:EOLhyphen"/>thematicks, and other Arts and Sci<g ref="char:EOLhyphen"/>ences. Containing many Thouſands of hard Words, <hi>&amp;c.</hi>
             </p>
             <p n="11">11. The fighting Sailor turn'd pea<g ref="char:EOLhyphen"/>ceable Chriſtian: Manifeſted in the
-<pb facs="tcp:039823_0037_10148BA709B5CB48"/>
+<pb facs="unknown:039823_0037_10148BA709B5CB48"/>
 Convincement and Converſion of <hi>Thomas Lurting.</hi> With a ſhort Rela<g ref="char:EOLhyphen"/>tion of many great Dangers and won<g ref="char:EOLhyphen"/>derful Deliverances he met withal. With a true Account of <hi>George Pat<g ref="char:EOLhyphen"/>tiſon</hi>'s being taken by the <hi>Turks;</hi> and how redeemed by God's Direction and Aſſiſtance, without Bloodſhed, putting the <hi>Turks</hi> on Shore in their own Country.</p>
             <p n="12">12. Ways and Means for the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Delaware</hi> to become rich: Wherein the ſeveral Growths and Products of theſe Countries are de<g ref="char:EOLhyphen"/>monſtrated to be a ſufficient Fund for a flouriſhing Trade. Humbly ſubmit<g ref="char:EOLhyphen"/>ted to the Legiſlative Authority of theſe Colonies.</p>
             <p n="13">13. The Hiſtory of <hi>Diodorus Sicu<g ref="char:EOLhyphen"/>lus,</hi> containing all that is moſt me<g ref="char:EOLhyphen"/>morable, and of the greateſt Antiqui<g ref="char:EOLhyphen"/>ty in the firſt Ages of the World, until the War of <hi>Troy.</hi>
             </p>
             <p n="14">14. The Mirrour of Divine Love unvail'd, in a Poetical Paraphraſe of the High and myſterious Song of <hi>So<g ref="char:EOLhyphen"/>lomon.</hi> Whereunto is added a Miſ<g ref="char:EOLhyphen"/>cellany
-<pb facs="tcp:039823_0038_10148B7AC1CAE490"/>
+<pb facs="unknown:039823_0038_10148B7AC1CAE490"/>
 of ſeveral other Poems, ſacred and Moral.</p>
             <p n="15">15. The Hiſtory of the Wars of his late Majeſty <hi>Charles</hi> XII. King of <hi>Sweden,</hi> From his firſt Landing in <hi>Denmark,</hi> to his Return from <hi>Turkey</hi> to <hi>Pomerania.</hi>
             </p>
@@ -2281,7 +2282,7 @@ of ſeveral other Poems, ſacred and Moral.</p>
             <p>At the ſame Place may be had Bonds, Bills, Indentures, <hi>&amp;c.</hi> and va<g ref="char:EOLhyphen"/>rious ſorts of Almanacks by Whole<g ref="char:EOLhyphen"/>ſale, much cheaper and more uſeful than formerly ſold in <hi>America.</hi>
             </p>
             <p>
-               <pb facs="tcp:039823_0039_10148BAA91FBAEF8"/>
+               <pb facs="unknown:039823_0039_10148BAA91FBAEF8"/>
                <hi>Now in the Preſs, and will be <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> on, with the utmoſt Expedition.</hi>
